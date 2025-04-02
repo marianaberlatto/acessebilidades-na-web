@@ -21,8 +21,10 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
-    font-weight: 600;
+    color: #d65012;
+    font-weight: 1000;
+    font-size: 30px;
+    background-color: rgb(114, 67, 5);
 }
 
 .inicio-fundo {
